@@ -1,0 +1,3 @@
+## Neden yamaç paraşütüne gitmeyi bıraktım?
+
+Hava muhalefetinden…
