@@ -1,0 +1,13 @@
+## .NET Core ile cross platform .NET
+
+Bugüne dek .NET’de geliştirilen yazılımları Mono sayesinde Windows dışındaki platformlarda çalıştırabiliyorduk. Microsoft bu projeye “engel” olmuyordu. Bugün Mono’yu destekleyeceklerini, daha da ötesinde daha önce çeşitli kütüphanelerini açık kaynak olarak yayınladığı .NET’in çekirdeği olan .NET Core’u da açık kaynak olarak yayınlayacaklarını bildirdiler. Bunu benim gibi bir çok kişinin kullanmak istemediği CodePlex üzerinden değil de GitHub’dan yapıyor olmaları apayrı bir gösterge. Buradan çıkarabileceğimiz sonuç Microsoft eski muhafazakar tutumunu geride bırakmaya başlıyor ve bunu bizzat eylemleriyle bize kanıtlıyor.
+
+Hedef Windows ve Windows Phone’un yanı sıra Mac, Linux, Android ve iOS üzerinde de çalışan .NET uygulamalarının olması. Visual Studio zaten 2013 ile birlikte bu platformları hedef almaya başlamış, node.js, Python, Cordova/Phonegap, HTML projelerini rahatlıkla geliştirebildiğimiz, içerisinde Git desteği olan bir IDE halini almıştı. Hatta haberiniz yoksa “[Visual Studio Community Edition](http://www.visualstudio.com/products/visual-studio-community-vs)” isimli enterprise seviyede olmadığınız sürece ücretsiz kullanabileceğiniz bir sürümü mevcut. Özetle, genel kanının aksine .NET’de yazılım geliştirmek Windows platformuna verdiğiniz lisans ücretleri dışında ücretli değil. Yukarıda da bahsettim Microsoft artık katı/muhafazakar bir tavra sahip değil, bence kullanıcılar da olmamalı, zira anti-trust davası görülürken piyasada Windows 98 bile yoktu.
+
+Ayrı bir parantez de ASP.NET için açmak gerekiyor. ASP.NET’i IIS üzerine sıkı sıkı bağlayan zincirler de cross platform desteği ile değişime uğrayacaktır diye düşünüyorum. [Miguel de Icaza](http://tirania.org/blog/)‘yı tanır mısınız bilmiyorum. Kendisi Linux’da GNOME Desktop Environment’in bir dönem proje lideri, Mono’yu oluşturan, Xamarin’in sahibi olan, Xamarin’e kadar SUSE’ye Novell çatısı altında destek veren bir ekibin lideri olmuş bir isim. Microsoft cross platform konusunda kendisini “yakınen” kullanıyor şu aralar.
+
+Şu anda community ile alışverişin temelini atmış bir Microsoft’dan bahsediyoruz, yukarıdaki gelişmeler şimdiden heyecan vericiyken ileride “bu hamleyle kazanan yazılımcı oldu” diyebileceğimiz fırsatlar var önümüzde.
+
+Haber Kaynağı: [http://blogs.msdn.com/b/dotnet/archive/2014/11/12/net-core-is-open-source.aspx](http://blogs.msdn.com/b/dotnet/archive/2014/11/12/net-core-is-open-source.aspx)
+
+*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/net-core-ile-cross-platform-net/) *on November 13, 2014.*
