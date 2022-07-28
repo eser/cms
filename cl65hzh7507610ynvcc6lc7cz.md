@@ -1,0 +1,3 @@
+## Neden JavaScript yerine .NET’le çalışan şirketleri seçiyorum?
+
+Parası daha iyi…
