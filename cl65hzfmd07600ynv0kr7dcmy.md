@@ -1,0 +1,3 @@
+## Türkiye’de yazılım sektörünün geleceği
+
+Pek parlak değil…
