@@ -1,0 +1,3 @@
+## Mükemmel bir makale nasıl yazılır?
+
+Cevabı sonraki makalemde…
