@@ -1,0 +1,17 @@
+## Microsoft’un imaj sorunu ve komüniteye yayılma çabaları
+
+Scott Hanselman’ın [Microsoft killed my Pappy](http://www.hanselman.com/blog/microsoftkilledmypappy.aspx) yazısını okumuştum bir süre önce, anti-trust davasının üzerinden geçen 20 senelik süre içerisinde bir şeylerin değiştiği, Internet Explorer gibi her platformun kendi browserıyla geldiği ve .NET’in open-source yapılması gibi noktalarına değindiği bir yazı özetle.
+
+10 sene önce gerçekten bir şeyler farklıydı. Steve Ballmer çıkıp “Linux kanserdir” diyebiliyordu. Bugün ise Microsoft CEO’su “Microsoft ❤ Linux” konulu sunumu esnasında bol bol görüntü veriyor.
+
+Bu değişikliğe tek kafa yoran ben değilim elbet, [ZDNet’in konuyla ilgili analizi](http://www.zdnet.com/why-microsoft-loves-linux-7000035218/) ve [Linux kaynağına katkıda bulunanlar arasında Microsoft’un ilk 5’de olması haberi](http://www.zdnet.com/blog/open-source/top-five-linux-contributor-microsoft/9254) bir resmi tamamlıyor. Microsoft eskiden işletim sistemi satmayı esas gelir kapısı görürken, bugün “yaygınlık” planlarını Azure platformu üzerine yoğunlaştırmış gibi görünüyor. .NET’in açık kaynak bir proje haline getiriliyor olmasının arkasındaki stratejik çıkarlardan biri eminim ki Azure’un yalnızca Windows’un hakim olduğu bir cloud hizmeti olmadığını vurgulamaktır.
+
+Azure’u esas ürün olarak düşündüğünüzde, 5–10 senelik bir gelecekte Windows’un dahi Visual Studio gibi yan ürün olarak ücretsiz olacağını düşünebiliriz. Microsoft her zaman IBM gibi olmayı kendisine hedef edinmişti ve şu anda yazılım üretmekten çok veri bulutlarının üzerinden para kazanacağı bir döneme en yakın olduğu zamanları yaşamakta.
+
+Bu noktada bugün [önce kendi kendime](https://twitter.com/eserozvataf/status/535721572590702593) ardından [Windows Phone Dev’i hedef alarak](https://twitter.com/eserozvataf/status/535723292246962176) iki tane tweet gönderdim, “Microsoft .NET’den sonra Windows Phone OS’u veya bu platformu açık kaynaklı hale getirmelidir”i savunduğum. Evet, kısa vadede stratejik olarak imkansız görünüyor fakat Windows Phone’un büyük kusurları var.
+
+Hem ilk kez deneyenlerin performansına ve stabilitesine şaşırdıkları hem de insanların hakkında önlerinde pek bilgi bulamadıkları bir platform Windows Phone. Harcanan çabayla karşılaştırdığımızda insanlar tarafından benimsenmiyor ve ilgilenilmiyor da. Sebep ise yine aynı. Bir örnek vereyim. Microsoft’un 30’a yakın twitter hesabını takip eden ve Microsoft çözümleri üzerinden kazanç sağlayan ben dahi 3.0 sürümüne ulaşmış açık kaynaklı [WinJS](http://try.buildwinjs.com/) projesinden bugün haberdar oluyorum. Çözüm olarak da açık kaynak olması fikrimi savunuyorum, çünkü arkasında komünite/community desteği almış ve Azure üzerinden çalışabilecek bir Windows Phone Platform’u daha yaygın olabilirdi. Bugün Android’i seven insanlar, Android Microsoft tarafından kapalı kaynak olarak geliştirilmiş olsaydı ismini dahi duymamış olabilirlerdi.
+
+Konuyu toparlamak gerekirse Microsoft’un imajı “ne yaptığının anlaşılamaması” ayrıca “pek de umursanmaması”na yer açıyor. Microsoft’un kendini kullanıcılara sevdirmekten başka yolu yok görünüyor. İyi haber, bunun farkına varmış olacaklar ki tüm yaptıkları hamleler komünitenin içerisine daha fazla girebilmek adına oldu.
+
+*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/microsoftun-imaj-sorunu-ve-komuniteye-yayilma-cabalari/) *on November 21, 2014.*
