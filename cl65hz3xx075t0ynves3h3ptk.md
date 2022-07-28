@@ -1,0 +1,3 @@
+## NPM paketleri nasıl hayatımı kararttı?
+
+Okumadan kurmuşum…
