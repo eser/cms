@@ -1,4 +1,4 @@
-## Trouble In Libreland
+## Hackathon için geliştirdiğimiz 2D RTS/RPG oyunu Trouble In Libreland
 
 Doğu Akdeniz Üniversite’sinin oyun kulübünün ilk toplantısından çıktığımda o çatı altında bir gün bir şeyler üretileceğine ilişkin fikrimi sorsanız hiç umudumun olmadığını söylerdim.
 
