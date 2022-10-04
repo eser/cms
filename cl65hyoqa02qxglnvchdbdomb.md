@@ -26,5 +26,3 @@
 > – 2045: Oturma Odası.  
 > – 2049: Gazeteler, Körlük.  
 > – 2050’den Ötesi: Ölüm, Acı, Çirkinlik, Plastik Cerrahi, Ulusal Devletler.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/50-yil-icinde-tukenecekler/) *on September 30, 2009.*
