@@ -104,5 +104,3 @@ Elimizdeki kesin bilgi ise bugün bir şeylerin başladığı. Büyük firmalar 
 Peki bu gelecekte biz bir pozisyon alabiliyor muyuz? Bu da farklı bir yazının konusu olsun.
 
 Ufak bir destekleyici güncelleme olarak [Prof. Dr. Oğuz Manas ile 1991'de gerçekleştirilen “2000’li yıllarda oturduğumuz yerden alışveriş yapacağız!” başlıklı söyleşi](https://www.egirisim.com/prof-dr-oguz-manas-2000li-yillarda-oturdugumuz-yerden-alisveris-yapacagiz/)yi buraya eklemenin uygun olacağını düşündüm.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/yarini-okuyabilir-miyiz/) *on November 27, 2016.*
