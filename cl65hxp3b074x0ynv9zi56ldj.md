@@ -34,5 +34,3 @@ Soyut örnekten biraz daha bilişim sektörüne geri dönersek, Google Chrome or
 Çözümüm bilim dünyasını ele almak olacak, kullanıcı deneyimi, iyi yazılım, yazılım geliştirme metodları gibi konular bilim gibi sürekli geliştirilebilir, sürekli sorgulanabilir kavramlardır. Eğer bilimde mevcut fikirleri tezlerle sorgulayabiliyor, alternatif üretebiliyorsak ilerleme kaydetmek için tekerlek başta olmak üzere bir çok şeyi yeniden keşfetmemiz gerekecektir. Koca koca firmalar işin ucunda maddi kaygılar varken bile projelerini çöpe atıp fikirleri kopyalarken, tekerleği yeniden keşvediyor olmuyor ama bu duruma çok takılan bir kesim mevcut.
 
 Sözü ironi ile bitirme ihtiyacı duydum, tekerleği yeniden keşfetmemeli ama piyasada bir çok lastik markası mevcut.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/tekerlegi-yeniden-kesfetmek/) *on November 22, 2014.*
