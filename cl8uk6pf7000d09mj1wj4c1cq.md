@@ -67,4 +67,4 @@ Potansiyel müşterim olabilecek şirketlere DevRel hakkında sunumlar hazırlam
 
 DevRel danışmanlığı için 3 firma ile bu esasta görüşmeler halindeydim ki; hali hazırda danışmanlık verdiğim Getir, agresif bir işe alım hedefi olduğunu, teknoloji kadrosunu global'de 1000 kişiye genişletmeyi planladıklarını ileterek benden bir çözüm beklediler. Elbette bu Getir büyüklüğünde "Getir'e dışarıdan destek verilerek" yapılabilecek bir sorumluluk değildi; ben de bu disiplini ülke sınırlarında ilk kez uygulayacak olma motivasyonuyla hiçbir detayla ilgilenmeden Getir'in "DevRel Director"u olmayı kabul ettim.
 
-Yazının devamı yarın yayında olacak.
+Yazının devamı için: [DevRel (Developer Relations) Yolculuğum: DevRel Director Olmak (2/2)](/devrel-developer-relations-yolculugum-devrel-director-olmak)
