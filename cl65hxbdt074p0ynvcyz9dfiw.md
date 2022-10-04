@@ -1,4 +1,4 @@
-## Daha güçlü bir Windows Komut Satırı
+## Windows Komut Satırı için kullanılabilecek güçlü araçlar
 
 Microsoft kullanıcı deneyimlerinde 2010'a kadar grafik arabirimi kullanımını arayüzünde herhangi bir ayrıma gitmeyi tercih etmedi. Hatta bu süreç içerisinde mümkün oldukça her işlemin grafik arabirimi üzerinden gerçekleştirilebilmesi yönünde inisiyatifler aldı.
 
@@ -60,5 +60,3 @@ Benim tercihim aşağıdaki gibi:
 ```
 SET PROMPT=$+[$m$p]
 ```
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/daha-guclu-bir-windows-komut-satiri/) *on September 7, 2016.*
