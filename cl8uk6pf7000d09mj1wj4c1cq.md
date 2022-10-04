@@ -1,6 +1,6 @@
 ## DevRel (Developer Relations) Yolculuğum: Nasıl başladım? (1/2)
 
-[Kariyerimin 21. yılı](https://eser.ozvataf.com/cv/)ndayım. Kendimi Türkiye sınırları içerisinde "büyürken evinde bilgisayar olan, bu sayede yazılım teknolojisinin gelişmesine tanıklık etmiş ilk neslin az sayıda üyesinden biri" olarak tanımlıyorum. Dolayısıyla şartlar ilgim ve isteğimle birleşince benim için doğal bir sonuç oldu. İkinci tercihim Bilim Kurgu Yazarı olmaktı, ama o zaman işim daha zor olurdu.
+[Kariyerimin 21. yılı](https://eser.ozvataf.com/cv/)ndayım. Kendimi Türkiye sınırları içerisinde "büyürken evinde bilgisayar olan, bu sayede yazılım teknolojisinin gelişmesine tanıklık etmiş ilk neslin az sayıda üyesinden biri" olarak tanımlıyorum (bkz: [90'larda programlama öğrenmek](/90-larda-programlama-ogrenmek)). Dolayısıyla şartlar ilgim ve isteğimle birleşince benim için doğal bir sonuç oldu. İkinci tercihim Bilim Kurgu Yazarı olmaktı, ama o zaman işim daha zor olurdu.
 
 
 ## Geçmiş
