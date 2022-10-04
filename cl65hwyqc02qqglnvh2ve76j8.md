@@ -6,7 +6,7 @@ Steve Ballmer zamanında “sözde”, Satya Nadella ile birlikte ise kısa zama
 
 Microsoft şu ana dek kendi dünyası dışındaki araçların çoğunu “port” etti. .NET oldukça güçlü bir oluşumdu ve eğer eksik olduğu bir cephe oluşursa anında kendi alternatifini oluşturuyordu. Hibernate yerine NHibernate, GitHub yerine CodePlex, PIP/NPM yerine NuGet, Make yerine MSBuild, StyleCop, NUnit, Entity Framework vb. Bunlardan bazıları benim nezdimde sınıfta kalmış, bazıları ise güçlü birer araç olarak halen varlığını korumaktadır.
 
-Uzun süredir ASP.NET yazarken bile Grunt’dan, NPM’den, PhantomJs’den yardım alırdım ama bu araçlar Microsoft platformları için üvey evlatlardı. Fakat şu sıralar ASP.NET MVC, Azure ve son olarak VS 2013 ile bir şeylerin değiştiğini hissedebiliyorum. Yalnızca Microsoft’un geliştirdiği değil, community’den gelen, community’nin desteklediği araçlar da kendine .NET ve Microsoft ekosisteminde yer bulabilmeye başladılar.
+Uzun süredir ASP.NET yazarken bile Grunt’dan, NPM’den, PhantomJs’den yardım alırdım ama bu araçlar Microsoft platformları için üvey evlatlardı. Fakat şu sıralar ASP.NET MVC, Azure ve son olarak VS 2013 ile bir şeylerin değiştiğini hissedebiliyorum. Yalnızca Microsoft’un geliştirdiği değil, topluluktan gelen, topluluğun desteklediği araçlar da kendine .NET ve Microsoft ekosisteminde yer bulabilmeye başladılar.
 
 Fakat ne yazık ki Windows halen bir geliştirici için çağın gereksinimlerini karşılayabilen bir platform değil. Yanlış anlaşılma olmasın, Windows inanılmaz olgun bir sistem, bir çok avantaja sahip fakat “eksik”. Ben bu eksikler arasından bana göre en kritik olanına, komut satırına odaklanmak istiyorum.
 
@@ -23,7 +23,7 @@ Fakat ne yazık ki Windows halen bir geliştirici için çağın gereksinimlerin
 
 Örnek:
 
-```
+```sh
 $ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
 
@@ -41,5 +41,3 @@ Benim tespitlerim bu kadar.
 Yazılımcılar olarak bir çok araç kullanıyor ve yazıyoruz. Bu araçların kullanılması için komut satırı genelde önem arz ediyor. Modern web frameworkleri komut satırından vazgeçmeyi bırakalım, tamamiyle komut satırı kullanımına yönelmiş durumdalar. Bu araçları yazanlar Linux ve OS X için ortak komut yazabiliyorken uyumsuzluk çıkaran Windows için bu komutları yazmaya tenezzül dahi etmiyorlar.
 
 Maddeleri “uygulanabilir”den “fantezi”ye doğru sıralamaya özen gösterdim. Bir gün işin Windows tarafında da kendimi “eksik hissetmeyeceğim” günü iple çekiyorum.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/microsofta-guclu-bir-komut-satiri-icin-acik-mektup/) *on January 3, 2015.*
