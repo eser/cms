@@ -21,5 +21,3 @@ Disket kutumdan “harcanacak” 3–4 disketi formatladım ve bilgisayarcıya g
 Daha sonra yine dergiler sayesinde Windows üzerinde Visual Basic ve Visual FoxPro ile programlamaya devam ettim. Ve hikaye devam etti, şu anda yazılım geliştirmek artık “mesleğim”.
 
 Özlemiyorum desem yalan söylemiş olurum. Bir hikayenin filmini izlemek yerine kitabını okumak kadar farklı geliyor bugünle karşılaştırdığımda bana.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/90larda-programlama-ogrenmek/) *on February 21, 2016.*
