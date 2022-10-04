@@ -1,4 +1,4 @@
-## SEO (Arama Motoru Optimizasyonu)
+## SEO: Arama Motoru Optimizasyonu
 
 Özel sektörde “alaylı” olarak yetiştikten sonra üniversite eğitimimi tamamladım. Her sınav öncesi mutlaka o ana dek çalıştığımız ders hakkında hiçbir ön araştırması veya çalışması olmayan birilerini çalıştırmışımdır.
 
@@ -11,5 +11,3 @@ SEO konusunda da sürekli bu örneği veririm. Search Engine “Optimization” 
 İçerik sahibi olmayan siteler arama motorlarının sürekli değişen algoritmaları karşısında aslında sahip olmadığı bir içeriği varmış gibi göstermeye çalışırken mutlaka belirli başlı cezalandırmalara (penalty) maruz kalıp geri dönülemez sorunlar yaşamaya başlarlar.
 
 Bu nedenle SEO önce içerik oluşturmakla başlar. İçeriğin arama motorlarına sunumu ise ikinci aşama olmalıdır. Bu nedenle naçizane görüşüm SEO uzmanından önce arayacağınız kişi bir metin yazarı / içerik editörü olsun.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/seo-arama-motoru-optimizasyonu/) *on February 7, 2016.*
