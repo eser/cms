@@ -1,6 +1,6 @@
 ## Uzaktan Çalışma Deneyimim — Kişisel Organizasyon (2/2)
 
-Yazının ilk bölümü olan [Uzaktan Çalışma Deneyimim — İşverenler ve İş Arkadaşları (1/2)](https://medium.com/@eserozvataf/uzaktan-%C3%A7al%C4%B1%C5%9Fma-deneyimim-i%CC%87%C5%9Fverenler-ve-i%CC%87%C5%9F-arkada%C5%9Flar%C4%B1-91db51d281fb)nda tam bir “kişisel weblog” hikayesi sunarak kendi uzaktan çalışma deneyimim ne zaman gerçekleşti, neler oldu ve nasıl sonuçlandı üzerinden konuyu aktarmaya çalıştım.
+Yazının ilk bölümü olan [Uzaktan Çalışma Deneyimim — İşverenler ve İş Arkadaşları (1/2)](/uzaktan-calisma-deneyimim-isverenler-ve-is-arkadaslari)nda tam bir “kişisel weblog” hikayesi sunarak kendi uzaktan çalışma deneyimim ne zaman gerçekleşti, neler oldu ve nasıl sonuçlandı üzerinden konuyu aktarmaya çalıştım.
 
 Önceki yazının okuyucu açısından pek ortak nokta bulunmadığı sürece okuması sıkıcı bir yazı olduğuna katılıyorum. Neyse ki bu yazıda ne zaman, neler ve nasıl oldu sorularının dikte ettiği hikaye kısmından sıyrılarak direkt olarak deneyimin kendisine odaklanacağım.
 
@@ -102,5 +102,3 @@ Yine de iş arkadaşlarınız istemese dahi bu raporları onlarla paylaşmanın 
 Benim deneyimlerim genel itibariyle bu şekilde. Yazıda mümkün olduğunca farklı konuları aynı başlıkların altında toplamaya çalıştım. Fakat buna itirazlar gelebilir veya ben fikrimi değiştirebilirim, bu nedenle yazıyı geliştirmek adına daha farklı zamanlarda güncellemelerde bulunabilirim.
 
 Firmalar gün geçtikçe daha fazla uzaktan çalışma modeline sıcak bakmaya başlıyorlar. Ben de deneyimlerimi aktararak umarım bu dönüşümde ufak da olsa soruları yanıtlayarak bir katkıda bulunabilmişimdir.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/uzaktan-calisma-deneyimim-kisisel-organizasyon/) *on October 12, 2016.*
