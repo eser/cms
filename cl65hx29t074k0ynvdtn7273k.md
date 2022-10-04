@@ -23,5 +23,3 @@ Ben mutlaka bir hedefleme olacaksa daha rafine bir kitleyi hedeflemeyi, herkesin
 İşte bu yüzden nicel değil niteliksel ölçeklerle yapılacak değerlendirmeleri dikkate almak gerektiğini düşünüyorum.
 
 Eğer yazımı beğendiyseniz, beğen tuşuna basmayı, kanalıma abone olmayı unutmayın. Oradaki sayılar artsın, 100.000 aboneye özel yazı yazmayı düşünüyorum.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/uretmek-ve-gonulluk/) *on February 25, 2017.*
