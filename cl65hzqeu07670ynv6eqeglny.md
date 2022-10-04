@@ -26,4 +26,6 @@ Detaylar elbette ki devam eden BUILD 2016 ile daha da ortaya çıkacak.
 
 Ancak konuya geri dönüp toparlamak gerekirse; İstatistiksel olarak GitHub’da olan ve kurulum/operasyon aşamasında komut gereksinimi duyan projelerin bash’e ve diğer GNU araçlarına göre dökümante edildiğini bilmesek de (eminim çok büyük bir orandır) Microsoft dünyanın geri kalanına yaklaşmak için büyük bir adım attı diye düşünüyorum.
 
-[BUILD 2016'daki ilgili açıklamanın videosu](https://youtu.be/GgutlKV42SY?t=4434)
+
+[BUILD 2016'daki ilgili açıklamanın videosu](https://youtu.be/GgutlKV42SY?t=4434):
+%[https://youtu.be/GgutlKV42SY?t=4434]
