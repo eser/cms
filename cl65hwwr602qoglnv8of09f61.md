@@ -24,7 +24,7 @@ Bu süreçlerin tümünü işler hale getirmek ve işletmek günümüzde DevOps 
 
 Konuyla ilgili Fatih Kadir Akın’la bir konuşmamızdan sonra durumun vehametini şöyle bir tweet’le paylaşmıştı kendisi:
 
-> [](https://twitter.com/fkadev/status/1074972412184354816)
+%[https://twitter.com/fkadev/status/1074972412184354816]
 
 Peki neyi sorunlu görüyorum ve ne iyileştirilebilir? Hemen açıklayayım…
 
