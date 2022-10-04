@@ -41,7 +41,7 @@ Twitch için hareket planımı çıkarttım aslında. Platformda zaten oyun teme
 *   birlikte konferans kayıtlarını izleyelim,
 *   ve bir araya gelip networking oluşturalım,
 
-istiyorum. [http://twitch.tv/laroux](http://twitch.tv/laroux) üzerinden takip etmeye başlayıp siz de katılımcı olmaya başlayabilirsiniz. Twitch’de gerçekleşen geçmiş yayın içeriklerini de bir süre sonra oluşturduğum [YouTube Kanalı](https://www.youtube.com/channel/UCS3eVZDirUNTFrteoJsLP4g?view_as=subscriber) üzerinden yayınlıyorum.
+istiyorum. [http://twitch.tv/laroux](http://twitch.tv/laroux) üzerinden takip etmeye başlayıp siz de katılımcı olmaya başlayabilirsiniz. Twitch’de gerçekleşen geçmiş yayın içeriklerini de bir süre sonra oluşturduğum [YouTube Kanalı](https://youtube.com/EserOzvataf) üzerinden yayınlıyorum.
 
 **Hareket Planı:** Twitch üzerine yatırıma devam.
 
@@ -61,7 +61,7 @@ Biraz daha geleneksel yazılım yaklaşımlarını gördüğümde, unix felsefes
 
 ### Açık Kaynak Projelerim
 
-Benim için [acikkaynak.info](http://acikkaynak.info)‘nun geliştirilmesi başlı başına bir “açık kaynak” proje oldu, bu projenin sahibi ben değilim fakat inisiyatifi başlatan bendim. Bu noktada konuyla ilgili iki çuvaldızım var, biri kendime. Benim için acikkaynak.info‘nun geliştirilmesi hep ertelendi. Halen gerekli zamanı bulup geliştirmeye devam etmek istiyorum ancak bunu başaramıyorum. Diğer yandan ülkemizde dillendirildiği kadar açık kaynak sevdalısı olmadığını iletilen proje sayılarından görmüş bulunuyorum.
+Benim için [acik-kaynak.org](http://acik-kaynak.org)‘un geliştirilmesi başlı başına bir “açık kaynak” proje oldu, bu projenin sahibi ben değilim fakat inisiyatifi başlatan bendim. Bu noktada konuyla ilgili iki çuvaldızım var, biri kendime. Benim için acik-kaynak.org‘un geliştirilmesi hep ertelendi. Halen gerekli zamanı bulup geliştirmeye devam etmek istiyorum ancak bunu başaramıyorum. Diğer yandan ülkemizde dillendirildiği kadar açık kaynak sevdalısı olmadığını iletilen proje sayılarından görmüş bulunuyorum.
 
 [Tassle](https://github.com/eserozvataf/tassle) benim uzun yıllar üzerinde çalıştığım bir .NET Standard component paketi, .NET Core’un çıkışı ile birlikte ciddi refactorler geçirdi. Ancak halen istediğim olgunluğa kavuşamadı.
 
@@ -69,7 +69,7 @@ Benim için [acikkaynak.info](http://acikkaynak.info)‘nun geliştirilmesi baş
 
 Diğer yandan [Darty](https://github.com/eserozvataf/darty), [Create-Darty-App](https://github.com/eserozvataf/create-darty-app), [Darty React App](https://github.com/eserozvataf/darty-react-app), [Darty React Hooks App](https://github.com/eserozvataf/darty-react-hooks-app) gibi kod tabanı oluşturma aracı projem devam etmekte. Aslında ts-spa-boilerplate isimli frontend geliştirme boilerplate’imin create-react-app pratiklerinin çok benimsenmesi sonrasında evrimleştiği nokta olarak ifade edebiliriz “Darty”yi.
 
-Tabii ki bunlar aktif maintain ettiğim ve son dönemde ilgilendiklerim. Daha sayamadığım ve GitHub üzerinde bulunan 103 adet açık kaynak repository’m bulunuyor, bunlar arasında oyun geliştirme alanında sayılabilecek Quake 3 Mod’undan tutun, C++’da yazdığım AST üzerinde çalışan parserlara veya Solidity üzerinde oluşturduğum Etherium SmartContract’lara kadar birçok farklı proje bulunuyor. Tek kişi bunları maalesef çok etkin maintain edemiyorum. Bazılarını seçip bu projelerin geliştirmelerine daha konsantre devam etmem gerekecek.
+Tabii ki bunlar aktif maintain ettiğim ve son dönemde ilgilendiklerim. Daha sayamadığım ve GitHub üzerinde bulunan 103 adet açık kaynak repository’m bulunuyor, bunlar arasında oyun geliştirme alanında sayılabilecek [Quake 3 Mod](https://github.com/eserozvataf/q3now)’undan tutun, C++’da yazdığım AST üzerinde çalışan parserlara veya Solidity üzerinde oluşturduğum Etherium SmartContract’lara kadar birçok farklı proje bulunuyor. Tek kişi bunları maalesef çok etkin maintain edemiyorum. Bazılarını seçip bu projelerin geliştirmelerine daha konsantre devam etmem gerekecek.
 
 **Hareket Planı:** Üzülerek bir sınırlama getirmek, daha konsantre gitmek gerekiyor.
 
