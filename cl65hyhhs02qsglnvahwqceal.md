@@ -10,6 +10,6 @@ Peki hep Administrator olarak çalıştırsak olmuyor mu? Oluyor. Ama sıradan b
 
 Böylece siz de en basitinden Command Prompt açmak için Search’e “cmd” yazıp, ardından sağ tıklayıp Run as Administrator demek yerine direkt Start->Run (Win+R kısayolu ile) aracılıyla “cmd” yazıp Admin olarak Command Prompt’u kullanabiliyorsunuz. Ayrıca daha önce eklediğiniz programı işiniz bittiğinde listeden kaldırabilirsiniz.
 
-Programın C# kaynak kodlarına GitHub üzerinden ulaşabilirsiniz: [https://github.com/eserozvataf/adminelevator](https://github.com/eserozvataf/adminelevator)
+Programın C# kaynak kodlarına GitHub üzerinden ulaşabilirsiniz: 
 
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/windowsda-uac-i-asmak-icin-adminelevator/) *on November 30, 2011.*
+%[https://github.com/eserozvataf/adminelevator]
