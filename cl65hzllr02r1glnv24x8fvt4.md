@@ -8,7 +8,7 @@ Konuya oldukça kişisel bir bakış açısından girip, daha sonra toparlayaca�
 
 İstisnasız davet edildiğim her konuşmada ilk 2–3 dakikada kendimi tanıtırken kullandığım bir cümledir, “açık kaynak ekolünden geliyorum”. Pek irdelemem, detayına girmem ancak yalnızca bir cümle olsa dahi geçirmekte de fayda görürüm. Bunun birçok nedeni var, ancak en kişisel olanından bahsedeyim; Kağıt üzerinde kurumsal firmalarda çalışan bir beyaz yakalı çalışanım. Bu da yetmezmiş gibi günlük mesaimde gerekmedikçe ellerimi çok az kirletiyorum. Dışarıdan yazılım üretimi -istese de- şirketinin orta vadeli hedeflerinden *daha öte* bir değere dönüştüremeyen ve 5 yıl öncesine kadar açık kaynak bir koda güvenilemeyeceğinin iddiasında olan biri gibi değerlendirilmem için tüm şartları sağlıyorum.
 
-Oysa ki 90’ların ortasında BBS’ler döneminde yazılımla uğraşmaya başlamış ve yazılım geliştirmeyi topluluktan öğrenmiş ve topluluğun yararını çokça görmüş biri olarak işin “sosyal” boyutunu atlamak ve kocaman bir yazılım ekosistemini tek taraflı kullanmak benim için bir seçenek dahi olamazdı.
+Oysa ki 90’ların ortasında BBS’ler döneminde yazılımla uğraşmaya başlamış ve yazılım geliştirmeyi topluluktan öğrenmiş ve topluluğun yararını çokça görmüş biri olarak işin “sosyal” boyutunu atlamak ve kocaman bir yazılım ekosistemini tek taraflı kullanmak benim için bir seçenek dahi olamazdı. (bkz: [90'larda programlama öğrenmek](/90-larda-programlama-ogrenmek) yazım)
 
 Disket/CD değişimleri, internette kişisel web sitelerinde yayınladığımız kodlar, phpclasses.org ve sourceforge maceralarımı hızlıca atlamam gerekirse; bugünkü manada açık kaynak ekosistemine ilk katkımı 2011’de tanışıklığımın olmadığı, bir çıkar ilişkisi beslemediğim insanların GitHub repository’lerine katkı yaparak gerçekleştirdim.
 
@@ -28,7 +28,7 @@ Daha iyi yapabileceğimiz şeyler vardı. Birçok kişi ile tanışma, muhabbet 
 
 ### **acik-kaynak.org**
 
-Bugün [https://acik-kaynak.](https://preview.acikkaynak.info)org adresi üzerinden yeni bir sürüm üzerinde çalışıyoruz. “Açık kaynak’ı açık kaynak yapıyoruz” diye özetlediğim bir çalışma gerçekleşiyor.
+Bugün [acik-kaynak.org](https://acik-kaynak.org/) adresi üzerinden yeni bir sürüm üzerinde çalışıyoruz. “Açık kaynak’ı açık kaynak yapıyoruz” diye özetlediğim bir çalışma gerçekleşiyor.
 
 Agah Gürer’in yaptığı tasarımı Figma’ya aktardık, şu anda herkes ulaşıp görüntüleyebiliyor. [Açık Kaynak 1.0 Yol Haritası](https://github.com/acikkaynak/acikkaynak-website/issues/30) başlığından tüm geliştirme detaylarına ve aktif sprint hedeflerine ulaşabiliyorsunuz. Okan Davut, Samet Aylak, Mehmet Ali Peker, Berat Bozkurt, Tuğsan Ünlü, Numan Can İpekçi ve Kaan Gökdemir koda pull requestler aracılığı ile katkıda bulundular. Arda Kılıçdağı, Emre Yılmaz, Hatice Edis, Emir Karşıyakalı, Selçuk Ermaya, Selen Gora ve Samet Aydemir’in ise GitHub Issue’larında izleri var. Aliyar Fırat sürüm planlamada ve tasarımda birçok fikir getirdi.
 
