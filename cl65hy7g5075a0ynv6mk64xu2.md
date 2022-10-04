@@ -1,4 +1,4 @@
-## laroux.js
+## laroux.js: Modern Browserlar için jQuery Alternatifi
 
 DOM ve JavaScript ile hiçbir zaman sorunu olmamış biri olarak, jQuery hayatıma girdikten sonra ürettiğim frontend kodlarda belirli bir ivme kazandığımı düşünüyorum. jQuery ilk adımlarını atarken Prototype ve Mootools gibi şu günkü yaygınlıklarıyla karşılaştırıldığında daha popüler iki alternatife daha sahipti. Önce her browser’a göre farklı kod üretiminin önüne geçti jQuery. Kompleks DOM ağaçlarından kolayca sıyrılabildiğiniz bir taban oturtmuştu esnek plugin yapısıyla birlikte. Zamanla içerisinde tüm avantajlarının yanına bir de kolay kullanılabilir ajax çözümünü ekledi ve bugünkü popülerliğine ulaştı.
 
@@ -19,5 +19,3 @@ Bu nedenle herhangi bir wrapper olmaksızın native DOM’a erişebilen, ne yapt
 `laroux.js` [Kullanım Örnekleri](https://eserozvataf.github.io/laroux.js/), [Performans Testleri](https://eserozvataf.github.io/laroux.js/benchmarks.html) ve [Wiki Sayfaları](https://github.com/eserozvataf/laroux.js/wiki) ile indirip-kullanmaya elverişli durumda.
 
 Her türlü soru, destek ve yardım için [GitHub Issues](https://github.com/eserozvataf/laroux.js/issues) ile bana ulaşabilirsiniz. Daha fazla detay için [laroux.js’nin proje sayfasını ziyaret edin](https://eserozvataf.github.io/laroux.js/).
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/laroux-js/) *on April 27, 2013.*
