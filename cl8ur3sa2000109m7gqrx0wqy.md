@@ -55,7 +55,7 @@ Bu süreç içinde DevRel'liğin yanı sıra Agile Office'ın da sorumluluğunu 
 
 Yazının önceki bölümünde DevRel'in nereyse her kurumda olması gereken bir "bakış" olduğunu savunduğumu, bu perspektifi de zaten birfiil mühendislik yöneticisi kimliğim ile oluşturup daha sonra konsantre bir danışmanlığa evirdiğimi anlatmıştım.
 
-Ekim 2022 itibariyle artık Getir'de çalışanı değilim. Ama bundan sonra DevRel Director görevinde olmamam DevRel disiplinine yaptığım yatırımı yok etmediği gibi; bu alanda halen bir şeyler üretmeme engel de değil.
+Ekim 2022 itibariyle artık Getir'den ayrılmış bulunuyorum. Ama bundan sonra DevRel Director görevinde olmamam DevRel disiplinine yaptığım yatırımı yok etmediği gibi; bu alanda halen bir şeyler üretmeme engel de değil.
 
 Bu ay itibariyle direkt CTO ünvanıyla mühendislik yönetimine geri döndüğüm ancak DevRel alanındaki biriktirdiğim know-how'ı yine işime yansıttığım bir düzende ilerleyeceğim.
 
