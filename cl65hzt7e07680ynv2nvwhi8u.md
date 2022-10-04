@@ -6,7 +6,7 @@ Genel olarak daha soft yetenekler, yazılım ürünleri, mimari, takım dinamikl
 
 Eleştirim basitçe aşağıdaki tweet’de yer alıyor. Gelen yanıtlarla bir takım tartışmalar oldu. Ben de sonunda çamur atıp kaçmış olmamak üzere bu yazıyı planladım. Bugün ise ancak yazabiliyorum.
 
-> [](https://twitter.com/eserozvataf/status/1055860281425960961)
+%[https://twitter.com/eserozvataf/status/1055860281425960961]
 
 Bandı biraz geri saralım ve React’ın neden benim için fenomen bir view çözümü olduğunu açıklamaya çalışayım.
 
@@ -52,7 +52,7 @@ React Hooks ile yazılmış bir örnek için, [kişisel web sitemin ana sayfası
 
 Son olarak birkaç saat önce Armağan Amcalar ve Fatih Kadir Akın ile Kod Analizi’nin ilk konuğu oldum. Youtube üzerinde canlı yayında [Evangelist](https://github.com/eserozvataf/evangelist) isimli açık kaynak projemi ellerinde küreklerle gömdüler. Daha sonra farklı bir proje ve soru/yanıt ile devam ettik. Hem tarihe not olması, hem de Kod Analizi’nin kitlelere ulaşması için buraya eklemek istedim.
 
-<iframe src="https://www.youtube.com/embed/e-1aIc93QXg" width="700" height="393" frameborder="0" scrolling="no"></iframe>
+%[https://www.youtube.com/watch?v=e-1aIc93QXg&list=PLWLiJPAYmgZAtN-trvpEpKysVL2LKMcO6&index=1]
 
 React ve React Hooks üzerinden tartışmalar bana kalırsa henüz yeni başlıyor. Ben de birçok fikrimi elbette değiştirebilirim. Bu yazıda umarım biraz da olsa meramımı anlatabilmişimdir.
 
