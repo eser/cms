@@ -11,7 +11,7 @@ Yazılım geliştirici olarak kariyerimin başlangıcında, bugünkü "birden fa
 
 Zamanla aldığım sorumlulukları yerine getirmek, başarılı olmak, zorlukları yenmek motivasyonum beni değiştirdi. Artık yazılımla sunabileceğim "doğru iş çıktıları" kendi doğal sınırlarını bulduğunda insanlarla çözümler arıyordum. Doğru iletişim dili, müzakere etmek gibi yetenekler kazanarak bugünkü kişiliğime evrimleşmiş olsam da, ben o günlerdeki yaklaşımlarımı ve davranışlarımı hiç unutmadım.
 
-Sonrasında 12 yıllık bir süre zarfında backend yazılımcı, senior full-stack yazılımcı, ekip yöneticisi, head of development gibi pozisyonlarla çalıştığım bir süreç oldu. Yüksek lisans için tekrar kolları sıvayıp bir yandan uzaktan danışmanlık verdiğim, bir yandan da araştırma görevlisi olduğum bir sürece girene dek bu tempo ile devam ettim.
+Sonrasında 12 yıllık bir süre zarfında bazen startup'larda, bazen yazılım evlerinde backend yazılımcı, senior full-stack yazılımcı, ekip yöneticisi, head of development gibi pozisyonlarla çalıştığım bir süreç oldu. Yüksek lisans için tekrar kolları sıvayıp bir yandan uzaktan danışmanlık verdiğim, bir yandan da araştırma görevlisi olduğum bir sürece girene dek bu tempo ile devam ettim.
 
 
 #### Koç Holding Çatısı Altında Çalışmak
