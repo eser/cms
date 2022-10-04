@@ -6,9 +6,4 @@ Bunun zorluğu ile en çok servis sağlayıcı tarafından filtrelenmeyen, daha 
 
 Kodları kullanmak için .NET’in CLR’ında herhangi bir Encoding’i nasıl kullanıyorsanız, yeni oluşturduğunuz bir `GsmEncoding` instance’ını da bu şekilde kullanmanız yeterli. Örneğin:
 
-```
-Encoding _encoder = new GsmEncoding();  
-byte[] _data = _encoder.GetBytes(text);
-```
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/net-ile-gsmencoding/) *on October 23, 2011.*
+%[https://gist.github.com/eserozvataf/5099144]
