@@ -6,13 +6,13 @@ Tweet’i buraya almak gerekirse:
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1659040552520/q8SgYR7DR.png)
 
-[https://twitter.com/yakuter/status/1134379969608540161](https://twitter.com/yakuter/status/1134379969608540161)
+%[https://twitter.com/yakuter/status/1134379969608540161]
 
 En üstteki 10 milyon web sitesinden %34’ünün WordPress çalıştırdığı bilgisine istinaden PHP’e ufak bir övgü var burada. Burada Internet’in en büyük 10 milyon sitesinden bahsettiğimizin tekrar üzerine basayım, bu bilgiyi bir cebimize atalım.
 
 Ben ilgili tweet’e vermiş olduğum yanıtta şunu savundum:
 
-> [](https://twitter.com/eserozvataf/status/1134380938350202880)
+%[https://twitter.com/eserozvataf/status/1134380938350202880]
 
 Bunun karşılığında birçok kişi karşı arguman olarak “PHP’nin kolay kurulabilirliği”, “5 TL’lik shared hosting’de çalışabilmesi” cümleleriyle portatifliğini öne sürdüler. Şimdi bunlara yanıt vermek isterim;
 
