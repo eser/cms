@@ -1,4 +1,4 @@
-## PHP SPL — Standard PHP Library
+## PHP SPL: PHP Standard Library
 
 PHP’nin 5.1 sürümüyle birlikte “Standard PHP Library” (SPL) isimli bir kavram tanıtıldı. SPL içerisinde, PHP geliştiricilerinin çok kullanıldığına kanaat getirdikleri bir takım hazır tip ve fonksiyon tanımları mevcut. Bu tanımlar PHP bünyesinde servis edilerek, bir çok kütüphane ve yazılımcının bir standart üzerinden çalışmasına imkan veriyor. Ne yazık ki bir çok geliştirici SPL’den habersiz olarak geliştirme yapmaya devam ediyor.
 
@@ -55,5 +55,3 @@ Kendi Exceptionlarınızı yalnızca `Exception` sınıfından değil, bir çok 
 [Exception](http://tr.php.net/manual/en/class.exception.php)
 
 Son olarak, kesin bir çizgi olmamakla birlikte, ben kendi yorumumca: `LogicException`‘ı kullanıcı/programcı tarafından yanlış bir işlem yapıldığında, `RuntimeException`‘ı ise bir işlem gerçekleştirirken bir zorluk oluştuğunda kullanıyorum. `ErrorException` zaten PHP’nin hata oluştuğunda kullandığı özel bir sınıf.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/php-spl-standard-php-library/) *on November 15, 2014.*
