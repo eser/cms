@@ -1,8 +1,8 @@
-## Türkiyedeki açık kaynak komünitesi
+## Türkiyedeki açık kaynak topluluğu
 
 Bu konuyla ilgili yazarken elimden geldiğince kimseyi incitmemeye çalışmaya özen göstereceğim. Bazen aşırı uçta görüşlerimin olması nedeniyle, kendi ideallerimi bu yazıya aktarsaydım bu yazıyı okunabilir bir şekilde sunmamın imkanı olmazdı.
 
-Türkiyedeki Açık Kaynak Komünitesi ile hiç dirsek temasınız oldu mu bilmiyorum ben bir kaçının içinde, bir kaçına da yakınım. Elimden geldiğince faydalı olmaya çalıştığım bir alan açık kaynak dünyası. Her ay -özellikle kendi kullandığım- bir kaç projeye commit atarak kendimce katılımımı sağlamaya çalışıyorum.
+Türkiyedeki açık kaynak topluluğu ile hiç dirsek temasınız oldu mu bilmiyorum ben bir kaçının içinde, bir kaçına da yakınım. Elimden geldiğince faydalı olmaya çalıştığım bir alan açık kaynak dünyası. Her ay -özellikle kendi kullandığım- bir kaç projeye commit atarak kendimce katılımımı sağlamaya çalışıyorum.
 
 Kimsenin benim katılımlarımdan haberi olmadığı gibi, bazen ben bile özellikle takip ettiğim kişilerin çalışmalarından / katkılarından bi haber oluyorum. Ülkede yapılan bir çok konferansın, konuşmanın ise “açık kaynak sevgisi”ne rağmen “Microsoft ❤ Linux”den öte organik / çıkar odaklı ilişkiyi geçmediğini gözlemliyorum.
 
@@ -14,11 +14,9 @@ Problem tanımını ortaya koyduğuma göre şimdi çözüm kısmına geçeyim,
 
 Ortak bir platform oluşturarak;
 
-*   “katılım bekleyen” kendimizin veya komünitenin projeleri tanıttığımız,
+*   “katılım bekleyen” kendimizin veya topluluğun projeleri tanıttığımız,
 *   Bootstrap’e / PHP’e / Node.js’e v.s. nasıl commit göndeririz diye gereksinim analizi yaptığımız,
 *   Açık kaynak katılımıyla ilgili bilinmesi gerekenleri dokümante ettiğimiz,
 *   Kendi katılımlarımızı tanıttığımız, çözdüğümüz problemleri anlattığımız,
 
 Bir ortam sağlamak. Bunun için en iyi ortam forum mu olur bilemedim. Ama eğer yorumlar kısmında katılım gösterirseniz böyle bir çalışmaya en azından başlangıç için girişmek istiyorum.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/turkiyedeki-acik-kaynak-komunitesi/) *on December 11, 2015.*
