@@ -1,4 +1,4 @@
-## Hayal kırıklığına uğramamak için sorulması gerekenler
+## Hayal kırıklığına uğramamak için sorgulanması gerekenler
 
 Lisansüstü eğitim “öğrenci olmak” pratiği olanlar için nispeten kolay, fakat hızlı bitirmek istediğinizde neredeyse her dersin ciddi ödev/araştırmaları altında boğulabileceğiniz bir süreçtir. Ben ufak bir hile yapıp (elbetteki mevzuatta yer alan bir hakkımı kullanıp) ortalamamı yükseltmek için yazılım mühendisliği ile ilgili ek bir seçiminde bulunmuştum.
 
@@ -17,15 +17,13 @@ Hayal kırıklığı yaşadığımız şeyi X’in yerine koyarak sormamız gere
 *   X ona yüklediğiniz anlam için doğru tercih miydi? Farklı tercihler var mıydı? Bunların kıyaslaması sağlıklı yapıldı mı?
 *   Organizasyonunuz operasyonunuz için kusur barındırıyor muydu? X taşımaması gereken bir yükü taşıyor muydu?
 
-Şimdi örnek senaryo üzerinden bir uyarlama yapalım ve sorulara bir kez de bu şekilde bakalım. Diyelim ki Node ile yapılmış bir projeniz var ve Node’un size yaşattığı deneyimler nedeniyle hayal kırıklığı yaşadınız.
+Şimdi örnek senaryo üzerinden bir uyarlama yapalım ve sorulara bir kez de bu şekilde bakalım. Diyelim ki Node.js ile yapılmış bir projeniz var ve Node.js’in size yaşattığı deneyimler nedeniyle hayal kırıklığı yaşadınız.
 
-*   Node ile uygulamanızı yazdınız ve production’a çıktınız. Node’dan kaynaklı bir memory leak ile karşılaştınız. Node’u tercih etmeden önce ön araştırma yapmış mıydınız? En azından “known issues”a göz geçirmiş miydiniz?
+*   Node.js ile uygulamanızı yazdınız ve production’a çıktınız. Node.js’den kaynaklı bir memory leak ile karşılaştınız. Node.js’i tercih etmeden önce ön araştırma yapmış mıydınız? En azından “known issues”a göz geçirmiş miydiniz?
 
 Şu anda uygulamanız çalışmaz halde bunun için alternatif bir planınız var mıydı? Önlem olarak alabileceğiniz önceden planlanmış bir aksiyonunuz yok mu? Servisin bir bölümünü geçici olarak kapatmak, kısa sürede workaround yazabilmek, v.s.?
 
-*   En başta tek seçeneğiniz Node muydu? Stres test ile şu anda yaşadığınız sorunun benzerini bu tercihi yaparken oluşturabilmiş miydiniz? Madem sıfır risk toleransınız vardı Node gibi nispeten yeni bir ekosistem yerine daha olgun bir platform seçemez miydiniz?
-*   Node yazabilen tek senior yazılımcınız şu anda problemi düzeltmekle mi ilgileniyor? Test yazmak, sistemi izlemek, continuous integration oluşturmak gibi devops operasyonlarını atlayarak mı bugünlere geldiniz?
+*   En başta tek seçeneğiniz Node.js miydi? Stres test ile şu anda yaşadığınız sorunun benzerini bu tercihi yaparken oluşturabilmiş miydiniz? Madem sıfır risk toleransınız vardı Node.js gibi nispeten yeni bir ekosistem yerine daha olgun bir platform seçemez miydiniz?
+*   Node.js yazabilen tek senior yazılımcınız şu anda problemi düzeltmekle mi ilgileniyor? Test yazmak, sistemi izlemek, continuous integration oluşturmak gibi DevOps operasyonlarını atlayarak mı bugünlere geldiniz?
 
 Bu soruları çevrenizdeki insanlara, yeni gireceğiniz bir işe veya başka kavramlara da uyarlayabileceğinizi düşünüyorum.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/hayal-kirikligina-ugramamak-icin-sorulmasi-gerekenler/) *on February 21, 2016.*
