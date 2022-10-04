@@ -1,4 +1,4 @@
-## -bash: dotnet: command not found — Visual Studio for Mac deneyimleri
+## Visual Studio for Mac deneyimlerim
 
 Her ne kadar tooling konusunda yavaş kaldıklarını düşünsem de, .NET Core cephesinde Microsoft’un oluşturduğu yol haritasında ilerlediğini hissedebilmeye başladık.
 
@@ -35,24 +35,22 @@ Burada da bir bilgilendirme eksiği ile karşılaştım. .NET Core’un önceki
 
 pkg’i kurup bash’de ilk projemi oluşturmak için adım attığımda aşağıdaki hatayı aldım:
 
-```
+```sh
 ~$ dotnet -bash: dotnet: command not found
 ```
 
 Hatayı kendim gidererek ilerleyebildim. Bu arada siz de başlıktaki hatayı aratıp bu yazıya denk geldiyseniz, eksik path tanımını aşağıda olduğu gibi bir symbolic link aracılığı ile atlatabilirsiniz:
 
-```
+```sh
 ln -s /usr/local/share/dotnet/dotnet /usr/local/bin/
 ```
 
 Alternatif olarak, `~/.bash_profile` dosyanıza aşağıdaki satırı ekleyebilirsiniz:
 
-```
+```sh
 export PATH=$PATH:/usr/local/share/dotnet
 ```
 
 Sonuçta karşılaştığım bu hatalar beni ürünün henüz test senaryolarının pek olgunlaşmadığı yönünde düşündürüyor.
 
 Yine de bir kez daha .NET Core’dan oldukça umutlu olduğumu belirtmek isterim. .NET sevdiğim bir platform, Visual Studio 2017'in çıkışı ve tooling’in artmasıyla artık benim de üzerine yatırım yapabileceğim bir olgunluğa sahip olacak. Sabırsızlıkla bekliyoruz :)
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/bash-dotnet-command-not-found/) *on November 26, 2016.*
