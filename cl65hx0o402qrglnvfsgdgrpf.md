@@ -37,6 +37,4 @@ Siz müşterinize “size talep ettiğiniz doğrultuda doğru içerik sağladı�
 
 Zamanla müşterileri kategorize etmeyi ve gerekirse kabul etmemeyi öğrenmek bu tarz bir çalışma modelinde önem arz ediyor.
 
-Yazının devamını [Uzaktan Çalışma Deneyimim — Kişisel Organizasyon (2/2)](https://medium.com/@eserozvataf/uzaktan-%C3%A7al%C4%B1%C5%9Fma-deneyimim-ki%C5%9Fisel-organizasyon-c27c47b86d89) başlığı ile bulabilirsiniz.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/uzaktan-calisma-deneyimim-isverenler-ve-is-arkadaslari/) *on October 9, 2016.*
+Yazının devamını [Uzaktan Çalışma Deneyimim — Kişisel Organizasyon (2/2)](/uzaktan-calisma-deneyimim-kisisel-organizasyon) başlığı ile bulabilirsiniz.
