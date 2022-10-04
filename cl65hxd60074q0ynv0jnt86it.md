@@ -14,12 +14,10 @@ HTA ([HTML Application](https://en.wikipedia.org/wiki/HTML_Application)): Çalı
 
 HTC ([HTML Components](https://en.wikipedia.org/wiki/HTML_Components)): Oluşturduğunuz bir element’e (veya html tag diyelim) bir davranış tanımlayıp JavaScript aracılığıyla nesneye gelen olay/eventleri o bileşene özel değerlendirebiliyorsunuz. Angular’ın 1.5, React’ın ve Polymer’in yapmayı sağlandığı şey de bu değil miydi?
 
-Şu soruyu sormadan edemiyorum: Internet Explorer 5.5 gibi 2000'de çıkmış bir browser’ın getirdiği yenilikleri Microsoft komüniteye benimsetseydi ne olurdu? Bu kavramların özelliği veya benim anlatmaya çalıştığım “Microsoft ilk yaptı” değil, bu konseptlerin şu anda W3C standartlarına girmiş, yani komünitenin istediği ve benimsediği kavramlar olması. 15–16 sene önce DHTML üzerine çalışmalarım olmasa bugün ben de bu konseptlerin yeni yeni ortaya atılıyor olduğunu düşünecektim ama değiller.
+Şu soruyu sormadan edemiyorum: Internet Explorer 5.5 gibi 2000'de çıkmış bir browser’ın getirdiği yenilikleri Microsoft topluluğa benimsetseydi ne olurdu? Bu kavramların özelliği veya benim anlatmaya çalıştığım “Microsoft ilk yaptı” değil, bu konseptlerin şu anda W3C standartlarına girmiş, yani topluluğun istediği ve benimsediği kavramlar olması. 15–16 sene önce DHTML üzerine çalışmalarım olmasa bugün ben de bu konseptlerin yeni yeni ortaya atılıyor olduğunu düşünecektim ama değiller.
 
 Buradan hareketle Microsoft’un “ileriyi” görüp ihtiyaçlara göre bir çözüm ürettiğini fakat zamanlama, motivasyonunu insanlarla paylaştırma, insanlara fikrini benimsetme gibi konularda oldukça eksik kaldığını gözlemleyebileceğimizi düşünüyorum.
 
 Buraya kadar “vizyonerlik” tanımı bozulmuyor esasında, “yarı vizyon” tespitim bundan sonrası ile ilgili. Microsoft da ilk harekete geçtiği andan itibaren kavramı geliştirmek yerine vazgeçmeye yakın bir çizgide duruyor. Silverlight, Windows Phone, WinFS gibi Microsoft’un yalnızca son 3 senede vazgeçtiği ürünlerden ciddi bir liste oluşturabilmek mümkün.
 
-Artık komüniteyi çağıran değil, komünitenin olduğu yere gitmeye çalışan daha akıllı bir Microsoft var gibi görünüyor ama bunun henüz TypeScript dışında bir ürünü olduğunu gözlemlemiyorum. Umarım zaman bize Microsoft’un potansiyelini gerçekleştirebildiği daha çok örnek gösterir.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/microsoftun-yari-vizyonu/) *on June 10, 2016.*
+Artık topluluğu çağıran değil, topluluğun olduğu yere gitmeye çalışan daha akıllı bir Microsoft var gibi görünüyor ama bunun henüz TypeScript dışında bir ürünü olduğunu gözlemlemiyorum. Umarım zaman bize Microsoft’un potansiyelini gerçekleştirebildiği daha çok örnek gösterir.
