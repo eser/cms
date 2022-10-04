@@ -52,5 +52,3 @@ Eğer çalışmanın sahibi hukuksal olarak duruma çok hakim biri olarak kendi 
 Açık kaynak “bilim” gibi ilerler, alanında uzman kişilerin ortaya attığı çalışmalar çürütülerek/düzeltilerek/desteklenerek mükemmeli arama çabasında bir veri oluştururlar.
 
 Şu anda günlük kullandığımız veya yararlandığımız birçok yazılımın açık kaynak dünyası tarafından geliştirdiğini göz önünde bulundurarak açık kaynağın başarılı olduğunu söyleyebileceğimizi düşünüyorum.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/acik-kaynak-felsefesi/) *on March 30, 2016.*
