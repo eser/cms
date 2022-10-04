@@ -25,5 +25,3 @@ Oyunla ilgili Screenshot, Download, Kaynak Kod ve tüm bilgiler için: [http://s
 > *Onur Köylü*
 
 > Story & Script *Erdem Koyuncu*
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/trouble-in-libreland/) *on August 9, 2012.*
