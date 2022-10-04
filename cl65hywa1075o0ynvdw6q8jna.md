@@ -23,5 +23,3 @@ Silverlight 2 ile vaad edilenler:
 
 Microsoft’un Silverlight Sitesi:  
  [http://silverlight.net/default.aspx](http://silverlight.net/default.aspx)
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/wpf-3-5-ve-silverlight-2/) *on October 8, 2008.*
