@@ -11,5 +11,3 @@ Generic `List<T>` sınıfının yeni sınıf türetirken (inheritance) kullanıl
 .NET Framework içerisinde `List<T>` örneği gibi genişlemeye müsait olarak tasarlanmayan, fakat gündelik kullanımı oldukça yaygın bir çok sınıf var. Konunun teknik bir gerekçesi var mı bilmiyorum, ama benzerlerinin çokluğu nedeniyle durumun bir tasarım kararı olduğu ortada.
 
 Kaynak ve Yorumlar: [http://blogs.msdn.com/kcwalina/archive/2005/09/26/474010.aspx](http://blogs.msdn.com/kcwalina/archive/2005/09/26/474010.aspx)
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/csharp-apileri-olustururken-hangi-list-sinifi/) *on September 24, 2008.*
