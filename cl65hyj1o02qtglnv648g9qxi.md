@@ -1,4 +1,4 @@
-## Cloud computing’de son kullanıcı açısından privacy
+## Cloud computing’de son kullanıcı açısından gizlilik
 
 Geçtiğimiz hafta ODTÜ’nün KKTC kampüsünde gerçekleşen Cloud Computing and Internet Security Seminer’ine katıldım. IBM, Tubitak ve Kaspersky’den gelen konuşmacılar temsili olarak geldikleri kurumların Cloud Computing’e nasıl baktıkları hakkında bende bazı izlenimler bıraktılar.
 
@@ -19,5 +19,3 @@ Bir çözümüm olmasaydı bu yazıyı yazmayı da düşünmüyor olacaktım, i�
 *   Kişisel bilgilerin servis üzerinden kullanıcının istediği an download edebilmesi veya başka bir servise taşınması.
 
 “Taşınması” evet, madem Cloud Computing’den bahsediyoruz ben Gmail üzerindeki tüm bilgimi Fastmail’e geçirmek için işlemleri başlatabilmeliyim. XMPP gibi protokoller arası konuşma sağlayan ekstra protokollere Cloud sistemlerin kullanıcılar ve abonelikler üzerinden konuşacağı varyasyonları olması gerekiyor diye düşünüyorum. Aslında bu alanda prototip olarak bir çalışmam da mevcut, bir ihtiyaç olduğu gerçek.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/cloud-computing-de-son-kullanici-privacy/) *on November 28, 2011.*
