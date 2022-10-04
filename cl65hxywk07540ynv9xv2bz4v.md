@@ -10,6 +10,6 @@ Ben de requirementları topladıktan sonra uygulamayı geliştirerek, GPL lisans
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1659040607700/emmA9tv22.png)
 
-[https://github.com/eserozvataf/pm](https://github.com/eserozvataf/pm) adresinden ilgili web uygulamasını inceleyebilir, katkıda bulunabilir, hatta GitHub üzerinden issue oluşturarak konuyla ilgili soru sorabilirsiniz.
+Projenin git repository'sinden ilgili web uygulamasını inceleyebilir, katkıda bulunabilir, hatta GitHub üzerinden issue oluşturarak konuyla ilgili soru sorabilirsiniz:
 
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/pm-php-tabanli-acik-kaynak-proje-yonetim-araci/) *on March 10, 2014.*
+%[https://github.com/eserozvataf/pm]
