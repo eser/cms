@@ -29,5 +29,3 @@ Bir nevi “bilgisayar ve temsil yardımlı açık demokrasi”den bahsettiğimi
 En başında da ülke ekonomisine olan etkileri. Anlık tepkilerin istikrar bozmasını engellemek için “kamu oyu” biraz “geç” veya “periodik” olarak yansıtılabilir diye düşünüyorum.
 
 Geliştirilebilir fikirler birer başlangıç noktasına gereksinim duyarlar. En azından tartışmaya veya hayal etmeye açarak bugünden Bilgisayarlı Demokrasi’yi planlayabileceğimizi düşünüyorum.
-
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/bilgisayarli-demokrasi/) *on August 9, 2013.*
