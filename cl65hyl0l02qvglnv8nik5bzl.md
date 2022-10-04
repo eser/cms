@@ -10,6 +10,6 @@ Klasik thread yaklaşımında kullanacağımız kadar thread oluşturur ve bu th
 
 Fakat .NET 4.0 ile gelip, işlemcinin sanal/fiziksel tüm çekirdeklerini sonuna kadar kullanmamızı sağlayan TPL’in bir kaç eksikliğinin olduğunu fark ettim. Çalışacak maximum thread sayısına biz karar veremiyoruz, dolayısıyla vermiş olduğumuz her kalem iş .NET tarafından içeride bir yerlerde kuyruğa dahil edildiğinden kod ile bu kuyruğu izleyemiyoruz.
 
-Bu nedenle kendi yazdığım ve aslında .NET’de oluşturduğum bir kütüphane olan Tasslehoff’un parçası olan `ChannelTaskQueue`’nun kodlarını GitHub üzerinden paylaşıyorum: [https://github.com/eserozvataf/tasslehoff-library/tree/master/Threading](https://github.com/eserozvataf/tasslehoff-library/tree/master/Threading)
+Bu nedenle kendi yazdığım ve aslında .NET’de oluşturduğum bir kütüphane olan Tasslehoff’un parçası olan `ChannelTaskQueue`’nun kodlarını GitHub üzerinden paylaşıyorum: 
 
-*Originally published at* [*eser.ozvataf.com*](http://eser.ozvataf.com/netde-task-parallel-library-ile-producer-consumer-queue/) *on November 7, 2011.*
+%[https://github.com/eserozvataf/tasslehoff-library/tree/master/Threading]
