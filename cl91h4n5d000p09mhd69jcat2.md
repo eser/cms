@@ -15,7 +15,7 @@ Kavramsal olarak iki kavramın arasındaki farkı Wikipedia alıntıları ile ş
 [Koçluk](https://tr.wikipedia.org/wiki/Ko%C3%A7luk):
 > Bazen koçluk, iki kişi arasında gayri resmi bir ilişki anlamına gelebilir. Biri diğerinden daha fazla deneyime ve uzmanlığa sahip olabilir, ikincisi öğrendikçe tavsiye ve rehberlik sunar. Fakat koçluk, daha genel hedeflerin veya genel gelişimin aksine, belirli görevlere veya hedeflere odaklanarak mentorlukdan farklıdır.
 
-[Mentorluk](https://tr.wikipedia.org/wiki/Mentorluk)
+[Mentorluk](https://tr.wikipedia.org/wiki/Mentorluk):
 > Geniş deneyime sahip biriyle öğrenmek isteyen biri arasında bir öğrenme ve gelişme ortaklığıdır. Bir uzmanla etkileşime geçmek, kültürel araçlarla ve içinde uzmanlık kazanmak için de gerekli olabilir. Mentorluk tecrübesi ve ilişki yapısı “psikolojik sosyal destek, kariyer rehberliği, rol modelleme ve protégé'lerin ve mentorlerin dahil olduğu mentorluk ilişkilerinde meydana gelen iletişimi” etkilemektedir.
 
 
