@@ -1,4 +1,4 @@
-## JavaScript’in backend geleceği
+# JavaScript’in backend geleceği
 
 Geçtiğimiz 8–9 sene içerisinde frontend development tarafında artan ihtiyaçlara paralel olarak; backend’den aşina olduğumuz kod tasarım konseptlerinin (patternler, separation concernler, frameworkler, v.s.) frontend tarafında da konjonktürel olarak uygulanabilir hale gelmesiyle JavaScript neredeyse bir yükseliş dönemine girmişti. Bu popülerlik başta ECMA olmak üzere herkesi JavaScript üzerinden daha da üretken olma yoluna soktu.
 
@@ -33,12 +33,16 @@ Fakat [Why did Koding switch from Node.js to Go?](https://www.quora.com/Why-did-
 *Yine de* bu eleştirilerin bugünün sürümleri olan 4.x ve 5.x için gerçekleştiklerini varsayıp yorumlamaya çalışalım. Burada stabilite problemleri iddiasına cevaben “stabilite problemi kesinlikle yoktur” gibi bir yanıt yazılamaz elbette. Ancak karşı argümanlar sunarak ilerlersek:
 
 *   Bugüne kadar Node.js’in mimarisinden dolayı düzelemeyecek bir durum duyduğumu hatırlamıyorum. (varsa lütfen düzeltin)
+    
 *   Node.js yakın zamanda release cycle’ını LTS (long term support) sürümler üretecek şekilde güncellemiş görünüyor.
+    
 *   Google Chrome başta olmak üzere browserlardan text editorlere kadar bir çok yazılımda kullanılan V8'in runtime hatalarının zaman içerisinde düzelmesi siz “kusursuz başka bir platform” arayışı başlatıp bitirene kadar geçen süreden daha kısa olacaktır.
+    
 *   Başlıca şikayetler arasında duyduğum “memory leak” başınıza gelse dahi bunu tespit ettiğiniz anda workaroundlar sayesinde V8'e gelecek patch’den önce telafi edilebilir durumda.
+    
 
 **İddia 3: Bizim için hayal kırıklığı oldu**  
-Bu yorum oldukça subjektif. Fakat ben bununla çok karşılaştığım için [Hayal kırıklığına uğramamak için sorulması gerekenler](http://eser.ozvataf.com/hayal-kirikligina-ugramamak-icin-sorulmasi-gerekenler/) yazımda konu olarak ele aldım.
+Bu yorum oldukça subjektif. Fakat ben bununla çok karşılaştığım için [Hayal kırıklığına uğramamak için sorulması gerekenler](https://eser.dev/hayal-kirikligina-ugramamak-icin-sorgulanmasi-gerekenler) yazımda konu olarak ele aldım.
 
 Projenizin “bizim için hayal kırıklığı oldu” ile sonuçlanmasını istemiyorsanız; önceden ödevinizi iyi yapmanız veya bir danışmanlık almanız şart. Çünkü “bugünün mevcut sorunları” bugün başlanılacak bir projenin “hangi teknoloji ile yapılacağını” değiştirebilecek kadar ciddi bir faktör.
 
@@ -97,8 +101,11 @@ Fatih Kadir Akın’ın bu yazıya cevaben [Medium’da yer alan yazısı](https
 Paralel/çoklu işlemleri gerçekleştirebilmek için en çok kullanılan mimarileri incelediğimizde:
 
 *   Multi-threading / Multi-process yapılar
+    
 *   Event-driven yapılar
+    
 *   Hibrit yapılar
+    
 
 ile karşılaşacağız.
 
@@ -139,13 +146,13 @@ Yine de savunma makamı görevimi bozmaksızın API’ın her zaman değişebile
 
 Örneğin ileride Node.js API’ının callback parametresi almayan kullanımları Promise döndürür, biz de bunlara da bir `await` ekleriz böylece herkes memnun olur.
 
-```
+```javascript
 let file = await fs.readFile(“./a.txt”); console.log(file) //=> beklediğim şey.
 ```
 
 Yine `SetTimeout` yerine bir `await delay(ms)` ile callback'den kurtulabilmemiz mümkün.
 
-```
+```javascript
 console.log(1); await sleep(2000); console.log(2); console.log(3); await sleep(1000); console.log(4); // buradan devam ediyoruz :) promise.resolve'a da gerek yok :)
 ```
 
@@ -169,8 +176,11 @@ Gereksinimler ve bunların tespit edilmesi işimizde büyük önem sahibi. Diğe
 Ben kodlamaya 90larda başlamış biri olarak;
 
 *   Pointerların, memory yönetiminin asla otomatik yönetilmemesi gerektiğini,
+    
 *   Interpreterlardan programlama dili değil ancak script olabileceğini,
+    
 *   Managed platformların asla başarıya ulaşamayacağını,
+    
 
 iddialarını bolca duydum. 2000'li yıllarda yukarıdaki önyargıların bir çoğunun çürüdüğünü söylemek yanlış olmaz.
 
