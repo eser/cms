@@ -66,7 +66,7 @@ Proje ekiplerindeki insanların firmalarına haber vermesiyle birlikte firmalar 
 
 ## Sektörel kazanımlarımız neler oldu?
 
-Bir afet durumu ile bir araya gelmenin ülkemize, coğrafyamıza çok fazla kayıp yaşattığı aşikar. **İşin sahadaki STKlara/yetkili kurumlara/akredite kurumlara geri hizmet sağlamak kısımlarını dışarıda bırakarak** (diğer türlü haddimizi aşıp, diğer kurumlarla yarıştığımız anlamı çıkabilir, o nedenle lütfen maruz görün) Tüm bu kayıplarımızı aklımızda ve kalbimizde tutarak, yalnızca buradaki çalışma kapsamında **teknik** bir değerlendirme yapmamız gerekirse:
+Bu afet durumu ile bir araya gelmenin ülkemize, coğrafyamıza çok fazla kayıp yaşattığı aşikar. **İşin sahadaki STKlara/yetkili kurumlara/akredite kurumlara geri hizmet sağlamak kısımlarını dışarıda bırakarak** (diğer türlü haddimizi aşıp, diğer kurumlarla yarıştığımız anlamı çıkabilir, o nedenle lütfen maruz görün) Tüm bu kayıplarımızı aklımızda ve kalbimizde tutarak, yalnızca buradaki çalışma kapsamında **teknik** bir değerlendirme yapmamız gerekirse:
 
 * Bilişim sektöründeki kişiler twitter'daki hararetli tartışmaları, küskünlükleri gerilerinde bırakarak, zor anlarda yardımlaşma ve dayanışma zemininde bir araya gelip, birlilkte çalışabildiklerini hissettiler
     
@@ -84,8 +84,7 @@ Bir afet durumu ile bir araya gelmenin ülkemize, coğrafyamıza çok fazla kay�
     
 * Yazılım alanında sürekli tartışan insanlar gibi görünüyorduk, hem kendimiz hem de dış partiler potansiyelimizi gözlemleyebilmiş oldu
     
-* Kurumlara, medyaya, çevremize, bizden sonraki nesillere ve en çok da kendimize ilham "influence" oluşturduk. Bir arkadaşımla yaptığım toplantıda 1-2 aydır yazılım alanında kötü zamanlar geçirdiğini ama buradaki birlikle tekrar doğduğunu konuştuk.  
-      
+* Kurumlara, medyaya, çevremize, bizden sonraki nesillere ve en çok da kendimize ilham "influence" oluşturduk. Bir arkadaşımla yaptığım toplantıda 1-2 aydır yazılım alanında kötü zamanlar geçirdiğini ama buradaki birlikle tekrar doğduğunu konuştuk.
     
     Dahası şöyle mesajlar aldık: "Hatay'da 12 yaşında öksüz kalan akrabam bana 'abi çocuklar için de bölüm ekleyelim bana bilgisayar alalım kod yazcam' dedi, '[afetcocuk.com](http://afetcocuk.com)'u bana al' diyor."
     
