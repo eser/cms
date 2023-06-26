@@ -1,4 +1,12 @@
-# Açık Yazılım Ağı
+---
+title: "Açık Yazılım Ağı"
+datePublished: Fri Feb 17 2023 12:13:01 GMT+0000 (Coordinated Universal Time)
+cuid: cle8hrv01000r09me3r3m3upy
+slug: acik-yazilim-agi
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687782383625/5c123706-69bb-4bf6-8195-6d9b6e3c4d98.png
+tags: agi, acik
+
+---
 
 6 Şubat 2023'de yaşadığımız coğrafyada elim bir olay gerçekleşti. Kahramanmaraş'ta gerçekleşen ve en az 10 ilimizi daha etkileyen deprem felaketi sonucunda aynı coğrafyayı paylaştığımız insanlar kayıplar ve travmalar yaşadık.
 
