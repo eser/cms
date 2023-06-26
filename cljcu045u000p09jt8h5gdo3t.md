@@ -3,7 +3,7 @@ title: "Bilim Kurgu / Distopya Eserlerle Tanışma Öneri Listesi"
 datePublished: Mon Jun 26 2023 12:24:58 GMT+0000 (Coordinated Universal Time)
 cuid: cljcu045u000p09jt8h5gdo3t
 slug: bilim-kurgu-distopya-eserlerle-tanisma-oneri-listesi
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1687782290220/65721ffb-5673-42f5-a9a1-f2bfbe84f3ae.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687782346803/f10edd4c-572c-4fa0-8191-2d4e9eddb471.jpeg
 tags: bilim-kurgu, distopya
 
 ---
