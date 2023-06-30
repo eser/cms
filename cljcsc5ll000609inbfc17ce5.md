@@ -62,4 +62,4 @@ Yayında konusu açılabilecek, üzerine yorum yapabileceğim ilgi alanlarım:
 
 Bu yazıyı yayında oluşturduğum için şimdilik kısa bırakacağım. Daha sonra geri bildirim ve genel yayın akışının bizi götürdüğü noktayla birlikte gelip düzenleyebilirim :)
 
-Eğer ilginizi çektiyse yayınları [https://youtube.com/@eseroz](https://youtube.com/@eseroz) adresinden takip edebilirsiniz.
+Eğer ilginizi çektiyse yayınları [**https://eser.live**](https://eser.live) adresinden takip edebilirsiniz.
