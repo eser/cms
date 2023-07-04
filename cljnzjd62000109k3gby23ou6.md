@@ -3,6 +3,7 @@ title: "Sosyal Medya ve Topluluk Alışkanlıklarımıza Dair - 1"
 datePublished: Tue Jul 04 2023 07:45:22 GMT+0000 (Coordinated Universal Time)
 cuid: cljnzjd62000109k3gby23ou6
 slug: sosyal-medya-ve-topluluk-aliskanliklarimiza-dair-1
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688456786425/4fc40928-706e-4509-8fc4-fd5458bb2ef4.png
 tags: topluluk, sosyal-medya, sosyoloji
 
 ---
