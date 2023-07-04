@@ -32,5 +32,7 @@ Bunları ayrı yazılarda ele alacağım ama özet başlıklarla yazmak isteri
     
 * Vaad önemli. Takip veya iletişim durumunda eğlence, öğrenim, statü vb. bir ödül-iddia var mı bu ilişkinin temelini oluşturabiliyor.
     
+* Belirli bir kesimin "oyalanma" ihtiyacı var ve geçtiğimiz nesiller "televizyon"u kullanırken, günümüzün televizyonu sosyal mecralar olmuş.
+    
 
 İlerideki yazılarda buluşmak üzere. Belki yazmaya üşenirsem konuyu ilk [eser.live youtube kanalımda](https://eser.live) işler, daha sonra yazıya dökerim.
