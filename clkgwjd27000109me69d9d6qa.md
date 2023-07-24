@@ -18,6 +18,34 @@ Burada yapmaya çalışacağım şey şu olacak: birçok insanın kendine koydu�
 
 Başlayalım:
 
-* İnsanların genellemelerine ve tespitlerine olumsuz yönde maruz kalıyorsanız (örnek: 6 ayda react öğrenebilirsin denilmiştir ama öğrenememişsinizdir); bu tespitlerin bir ortalama, varsayımlar ve korelasyon ile oluştuğunu; bu genelleme sahiplerinin sandığınız kadar ince eleyip sık dokumadan bu tespitleri 5-10 dakikalık düşünsel süreçlerle ortaya koyduğunu bilmekte yarar var. Genelleme/iddia sahibinin ne anlatmaya çalıştığına odaklanalım, bizim için geçerli bir durumsa buradan nasıl bir çıkarım/fikir elde edebileceğimize odaklanmalı.
-    
-* Kendinizi X yıldır sektörde bulunan birisiyle kıyaslayıp, "bunları ben kesinlikle öğrenemem" diye vazgeçmek ve diğer insanların sanki her şeyi bir süreç içinde öğrenmek yerine bir gece aniden onlara vahiy geldiğini düşünmek. Bu insani olarak mümkün değil, sizler onyıllarca gördüğünüz matematiği, ana dilinizi belirli bir sürede geometri'yi, dil bilgisini kavrayacak kadar öğrenebiliyorsunuz. Yazılım da öyle, bir süreçle öğrenim gerçekleşiyor.
+## Genellemelere Maruz Kalmak
+
+İnsanların genellemelerine ve tespitlerine olumsuz yönde maruz kalıyorsanız (örnek: 6 ayda react öğrenebilirsin denilmiştir ama öğrenememişsinizdir);  
+  
+bu tespitlerin bir ortalama, varsayımlar ve korelasyon ile oluştuğunu;  
+  
+bu genelleme sahiplerinin sandığınız kadar ince eleyip sık dokumadan bu tespitleri 5-10 dakikalık düşünsel süreçlerle ortaya koyduğunu bilmekte yarar var.  
+  
+Genelleme/iddia sahibinin ne anlatmaya çalıştığına odaklanalım, bizim için geçerli bir durumsa buradan nasıl bir çıkarım/fikir elde edebileceğimize odaklanmalı.
+
+## Süreci Yok Saymak
+
+Kendinizi X yıldır sektörde bulunan birisiyle kıyaslayıp,  
+  
+"bunları ben kesinlikle öğrenemem" diye vazgeçmek ve diğer insanların sanki her şeyi bir süreç içinde öğrenmek yerine bir gece aniden onlara vahiy geldiğini düşünmek.  
+  
+Bu insani olarak mümkün değil, sizler onyıllarca gördüğünüz matematiği, ana dilinizi belirli bir sürede geometri'yi, dil bilgisini kavrayacak kadar öğrenebiliyorsunuz.  
+  
+Yazılım da öyle, bir süreçle öğrenim gerçekleşiyor.
+
+## Başarı Listesini Tutmamak
+
+Öğrenme bir sürece yayıldığı için kimi zaman biz ısıya maruz kalan kurbağa gibi durumumuza "alışıyoruz", 2 ay önce bilmediğimiz birçok şeyi bilsek dahi, henüz "nihai hedefe" ulaşamamış olmak bizi halen "başarısız" hissettiriyor.  
+  
+Eğer çok güçlü duygusal bir sermayemiz, metanetli bir karakterimiz yoksa vazgeçmeye çok açık olabiliyoruz.
+
+## Diğer İnsanların Acı Çekmediğini Düşünmek
+
+Sizin tanık olmadığınız tüm "sonuç"lar, dışarıdan her şeyi mükemmel ve kusursuz görmenize sebep olabiliyor. Herkes diş bakımı için dişçi koltuklarında nice acılar çeker, her gün sabah akşam dişlerini temiz tutmak için uğraşır hatta çoğu insan cerrahi operasyonlara maruz kalır ancak biz Instagram'da onları görüp "aa ne kadar güzel dişleri var, tanrı vergisi" deriz.  
+  
+Bu bir yanılsama ve dışarıdan "tamamlanmış" görünen birçok hikaye geliştirken birçok başarısızlık oluyor. Kimse bir anda bir noktaya gelmiyor, kimse yazdığı projeyi anında çalıştıramıyor, birçok hata alıyor ve ufak bir stil düzenlemesi için günler kaybedebiliyor.
