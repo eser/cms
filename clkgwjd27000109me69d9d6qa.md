@@ -6,7 +6,7 @@ slug: ogrenme-yol-haritasi-bilhassa-junior-ve-yazilimcilar-icin
 
 ---
 
-(Yazı halen geliştiriliyor, şundan da bahset derseniz [https://twitter.com/eser](https://twitter.com/eser) üzerinden bana ulaşabilirsiniz)
+(Yazı halen geliştiriliyor, şundan da bahset derseniz [https://twitter.com/eserozvataf](https://twitter.com/eserozvataf/status/1683468971280850946) üzerinden bana ulaşabilirsiniz)
 
 Superpeer ve benzeri kanallardan benimle iletişime geçen birçok insanla benzer temalarda konuşmam üzerine bu yazıyı yazma kararı aldım.
 
@@ -18,6 +18,6 @@ Burada yapmaya çalışacağım şey şu olacak: birçok insanın kendine koydu�
 
 Başlayalım:
 
-* İnsanların genellemelerine ve tespitlerine olumsuz yönde maruz kalıyorsanız (örnek: 6 ayda react öğrenebilirsin denilmiştir ama öğrenememişsinizdir); bu tespitlerin bir ortalama, varsayımlar ve korelasyon ile oluştuğunu; bu genelleme sahiplerinin sandığınız kadar ince eleyip sık dokumadan bu tespitleri 5-10 dakikalık düşünsel süreçlerle ortaya koyduğunu bilmekte yarar var. Genelleme/iddia sahibinin ne anlatmaya çalıştığına odaklanalım, bizim için geçerli bir durumsa buradan nasıl bir çıkarım/fikir elde edebileceğimize odaklanmalı.  
+* İnsanların genellemelerine ve tespitlerine olumsuz yönde maruz kalıyorsanız (örnek: 6 ayda react öğrenebilirsin denilmiştir ama öğrenememişsinizdir); bu tespitlerin bir ortalama, varsayımlar ve korelasyon ile oluştuğunu; bu genelleme sahiplerinin sandığınız kadar ince eleyip sık dokumadan bu tespitleri 5-10 dakikalık düşünsel süreçlerle ortaya koyduğunu bilmekte yarar var. Genelleme/iddia sahibinin ne anlatmaya çalıştığına odaklanalım, bizim için geçerli bir durumsa buradan nasıl bir çıkarım/fikir elde edebileceğimize odaklanmalı.
     
 * Kendinizi X yıldır sektörde bulunan birisiyle kıyaslayıp, "bunları ben kesinlikle öğrenemem" diye vazgeçmek ve diğer insanların sanki her şeyi bir süreç içinde öğrenmek yerine bir gece aniden onlara vahiy geldiğini düşünmek. Bu insani olarak mümkün değil, sizler onyıllarca gördüğünüz matematiği, ana dilinizi belirli bir sürede geometri'yi, dil bilgisini kavrayacak kadar öğrenebiliyorsunuz. Yazılım da öyle, bir süreçle öğrenim gerçekleşiyor.
